@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @Designedby-Radol
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 💫 About Me:
+# 👋 ¡Hola! Soy Designedby-Radol<br><br>Desarrollador de software apasionado por la creación de aplicaciones web y experiencias interactivas. Con una sólida experiencia en múltiples lenguajes y frameworks, siempre estoy en busca de nuevos desafíos para mejorar mis habilidades y aportar soluciones innovadoras.<br><br>### 👨‍💻 Tech Stack<br>- **Lenguajes**: C#, PHP, Python, JavaScript<br>- **Frameworks y Librerías**: Vue, React, Angular, Three.js, Manim<br>- **Herramientas de Desarrollo**: Git, GitHub, Node.js, Express, Vite<br><br>### 💼 Proyectos Destacados<br>- **Gitt 008**: Una página web desarrollada con **Angular** y respaldada por **MongoDB** y **Express.js**. <br>- **Fibonacci**: Un proyecto en **Python** aún en desarrollo, que representa gráficamente la sucesión de Fibonacci usando la biblioteca **Manim**. Inspirado en el desafío técnico de implementar Fibonacci en entrevistas.<br><br>### 🚀 En constante aprendizaje<br>Actualmente me encuentro en la organización **NOZO.tech** colaborando en un proyecto llamado **Sunshiroll**, una plataforma social que permitirá a los usuarios interactuar mediante videos. Además, sigo explorando nuevas tecnologías y metodologías como **Scrum** y **ingeniería de requerimientos**.<br><br>### 📫 Conéctate conmigo<br>- **LinkedIn**: [Raúl Santiago Ramírez Puyo](https://www.linkedin.com/in/raúl-santiago-ramírez-puyo)<br>- **WhatsApp**: [Contactar](https://wa.me/+573012184025)<br>- **Correo**: raulsantiagoramirez1@gmail.com<br>- **Instagram**: [@designedby_radol](https://www.instagram.com/designedby_radol/)<br><br>---<br><br>¡Siempre abierto a colaboraciones y contribuciones en proyectos interesantes!<br>
 
-<!---
-Designedby-Radol/Designedby-Radol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/designedby_radol/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/raúl-santiago-ramírez-puyo) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/28048594/designedby-radol) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Ra-l-Santiago-Ram-rez-Puyo) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Designedby-Radol&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Designedby-Radol&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Designedby-Radol&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Designedby-Radol&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Designedby-Radol&icon=0&color=0)](https://visitcount.itsvg.in)
