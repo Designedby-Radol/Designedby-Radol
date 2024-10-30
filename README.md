@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 ¡Hola! Soy **Designedby-Radol**  
+👋 ¡Hola! Soy **Raul Santiago Ramirez Puyo**  
 
 Desarrollador de software apasionado por la creación de aplicaciones web y experiencias interactivas. Con una sólida experiencia en múltiples lenguajes y frameworks, siempre estoy en busca de nuevos desafíos para mejorar mis habilidades y aportar soluciones innovadoras.
 
@@ -39,7 +39,6 @@ Actualmente me encuentro en la organización **NOZO.tech** colaborando en un pro
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
