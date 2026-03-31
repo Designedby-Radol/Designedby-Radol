@@ -4,7 +4,7 @@
 Desarrollador de software apasionado por la creación de aplicaciones web y experiencias interactivas. Con una sólida experiencia en múltiples lenguajes y frameworks, siempre estoy en busca de nuevos desafíos para mejorar mis habilidades y aportar soluciones innovadoras.
 
 ### 👨‍💻 Tech Stack
-- **Lenguajes**: C#, PHP, Python, JavaScript
+- **Lenguajes**: C#, Python, JavaScript
 - **Frameworks y Librerías**: Vue, React, Angular, Three.js, Manim
 - **Herramientas de Desarrollo**: Git, GitHub, Node.js, Express, Vite
 
