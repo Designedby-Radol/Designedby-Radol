@@ -1,4 +1,4 @@
-# 💫 About Me:
+ # 💫 About Me:
 👋 ¡Hola! Soy **Raul Santiago Ramirez Puyo**  
 
 Desarrollador de software apasionado por la creación de aplicaciones web y experiencias interactivas. Con una sólida experiencia en múltiples lenguajes y frameworks, siempre estoy en busca de nuevos desafíos para mejorar mis habilidades y aportar soluciones innovadoras.
@@ -13,7 +13,7 @@ Desarrollador de software apasionado por la creación de aplicaciones web y expe
 - **Fibonacci**: Un proyecto en **Python** aún en desarrollo, que representa gráficamente la sucesión de Fibonacci usando la biblioteca **Manim**. Inspirado en el desafío técnico de implementar Fibonacci en entrevistas.
 
 ### 🚀 En constante aprendizaje
-Actualmente me encuentro en la organización **NOZO.tech** colaborando en un proyecto llamado **Sunshiroll**, una plataforma social que permitirá a los usuarios interactuar mediante videos. Además, sigo explorando nuevas tecnologías y metodologías como **Scrum** y **ingeniería de requerimientos**.
+Actualmente me encuentro en la organización **NOZO.tech** colaborando en un proyecto llamado **AcrossFunctional Agents**, Agencia especializada en IA que colabora con un socio técnico. Actualmente dirijo la dirección del producto, la planificación de la implementación y la coordinación técnica de CrossFunctionalAgents, un marco interno activo en el que agentes de IA especializados colaboran de forma autónoma para llevar a cabo tareas transversales, y que funciona íntegramente en una infraestructura local. **ingeniería de requerimientos**.
 
 ### 📫 Conéctate conmigo
 - **LinkedIn**: [Raúl Santiago Ramírez Puyo](https://www.linkedin.com/in/raúl-santiago-ramírez-puyo)
